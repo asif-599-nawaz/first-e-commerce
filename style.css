@@ -29,5 +29,67 @@
 }
 
 p{
-    color:purple;
+    color: black;
 }
+
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 20px 30px;
+    border-radius: 40px;
+}
+
+.cat-1{
+    background-image: linear-gradient(to left,orange,orangered);
+}
+
+.cat-2{
+    background-image: linear-gradient(to right,greenyellow,skyblue);
+}
+
+.cat-3{
+    background-image: linear-gradient(to bottom,blue,violet);
+}
+
+.categories h1{
+    
+    color: black;
+    
+
+}
+
+.categories img{
+    width: 100px;
+    
+}
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px orange;
+    border-radius: 20px;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+
+#contactus{
+    height: 300px;
+}
+
+#contactus h4{
+    color: rgb(218, 91, 32);
+}
+
+#contactus h2{
+    color: skyblue;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
